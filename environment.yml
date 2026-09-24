@@ -1,5 +1,5 @@
 dependencies:
-  - python
+  - python=3.12
   - pip
   - fiona
   - geopandas
@@ -10,4 +10,5 @@ dependencies:
   - ipywidgets
   - ipyleaflet
   - voila
-  - raster-tools
+  - pip:
+      - raster-tools
