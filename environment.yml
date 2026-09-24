@@ -1,0 +1,13 @@
+dependencies:
+  - python=3.12.11
+  - pip
+  - fiona
+  - geopandas
+  - netcdf4
+  - pandas
+  - pyogrio
+  - scipy
+  - ipywidgets
+  - ipyleaflet
+  - voila
+  - raster-tools
