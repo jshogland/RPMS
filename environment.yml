@@ -1,5 +1,5 @@
 dependencies:
-  - python=3.12.11
+  - python
   - pip
   - fiona
   - geopandas
